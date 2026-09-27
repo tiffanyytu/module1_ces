@@ -35,7 +35,7 @@ The transitions happen gradually, with particle movement and color changing from
    - **Board:** `ESP32 Dev Module`
    - **Port:** the serial port corresponding to your T-Display
    - **Upload Speed:** `115200`
-5. Open `src/states_of_matter.ino`.
+5. Open `src/module1.ino`.
 6. Upload the sketch to the board.
 
 ## Installation
