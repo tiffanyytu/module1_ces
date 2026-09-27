@@ -14,6 +14,8 @@ The sketch visualizes particles transitioning through three states of matter:
 
 The transitions happen gradually, with particle movement and color changing from cool cyan to magenta to warm orange. Randomized motion makes each cycle slightly different rather than repeating a fixed animation.
 
+<img width="606" height="416" alt="mod1_demo" src="https://github.com/user-attachments/assets/cc060e69-ec73-47d9-b764-fcaf4a191c70" />
+
 ## Hardware
 
 - LILYGO / TTGO T-Display
