@@ -44,6 +44,6 @@ The transitions happen gradually, with particle movement and color changing from
 
 The T-Display and LiPo battery were placed inside a paper envelope. The envelope extends the digital artwork into the physical installation: ordered blue geometric particles represent a **solid**, flowing cyan forms represent a **liquid**, and dispersed yellow/orange dots represent a **gas**.
 
-![Installation](media/installation.HEIC)
+![Installation](media/installation.jpg)
 
 ![Envelope Design](media/envelope-design.png)
